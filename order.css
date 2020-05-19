@@ -1,12 +1,18 @@
-.gold{
+@media screen and (max-width: 480px) {
+      .gold{
       text-align: center;
 }
+      }
+@media screen and (max-width: 480px) {
 img{
       position: center;
 }
+}
+@media screen and (max-width: 480px) {
 html{
   background-color: gold;
   background-size: cover;
 
 
+}
 }
